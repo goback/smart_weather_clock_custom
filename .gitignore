@@ -1,0 +1,13 @@
+# Local build output and tool caches
+.pio/
+.venv/
+__pycache__/
+*.pyc
+
+# Local environment and actual device configuration
+.env
+.env.*
+!.env.example
+**/sdpro-minimal.json
+**/sdpro-minimal.tmp
+**/.sdpro-clean64.done

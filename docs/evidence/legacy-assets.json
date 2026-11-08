@@ -1,0 +1,265 @@
+{
+  "description": "Historical cleanup inventory copied from the final Clean64 src/legacy_assets.h; not an executable deletion plan.",
+  "source_thread": "01a1b94e-b2fc-7b00-bf4f-aca7c09980a5",
+  "recorded_date": "2026-11-08",
+  "count": 64,
+  "total_file_bytes": 1183573,
+  "assets": [
+    {
+      "path": "/0.gif",
+      "bytes": 27141
+    },
+    {
+      "path": "/1.gif",
+      "bytes": 90718
+    },
+    {
+      "path": "/2.gif",
+      "bytes": 81351
+    },
+    {
+      "path": "/3.gif",
+      "bytes": 28650
+    },
+    {
+      "path": "/4.gif",
+      "bytes": 59468
+    },
+    {
+      "path": "/clock.jpg",
+      "bytes": 10524
+    },
+    {
+      "path": "/code.jpg",
+      "bytes": 91523
+    },
+    {
+      "path": "/FlipClock/0.gif",
+      "bytes": 21811
+    },
+    {
+      "path": "/FlipClock/1.gif",
+      "bytes": 22350
+    },
+    {
+      "path": "/FlipClock/2.gif",
+      "bytes": 19454
+    },
+    {
+      "path": "/FlipClock/3.gif",
+      "bytes": 19304
+    },
+    {
+      "path": "/FlipClock/4.gif",
+      "bytes": 22372
+    },
+    {
+      "path": "/FlipClock/5.gif",
+      "bytes": 18449
+    },
+    {
+      "path": "/FlipClock/6.gif",
+      "bytes": 18167
+    },
+    {
+      "path": "/FlipClock/7.gif",
+      "bytes": 18505
+    },
+    {
+      "path": "/FlipClock/8.gif",
+      "bytes": 20088
+    },
+    {
+      "path": "/FlipClock/9.gif",
+      "bytes": 21571
+    },
+    {
+      "path": "/ico/01d.jpg",
+      "bytes": 5957
+    },
+    {
+      "path": "/ico/01n.jpg",
+      "bytes": 3399
+    },
+    {
+      "path": "/ico/02d.jpg",
+      "bytes": 6076
+    },
+    {
+      "path": "/ico/02n.jpg",
+      "bytes": 5516
+    },
+    {
+      "path": "/ico/03d.jpg",
+      "bytes": 5523
+    },
+    {
+      "path": "/ico/04d.jpg",
+      "bytes": 4599
+    },
+    {
+      "path": "/ico/09d.jpg",
+      "bytes": 6774
+    },
+    {
+      "path": "/ico/10d.jpg",
+      "bytes": 6472
+    },
+    {
+      "path": "/ico/11d.jpg",
+      "bytes": 6530
+    },
+    {
+      "path": "/ico/13d.jpg",
+      "bytes": 6568
+    },
+    {
+      "path": "/ico/50d.jpg",
+      "bytes": 4947
+    },
+    {
+      "path": "/ico/humidity.jpg",
+      "bytes": 1472
+    },
+    {
+      "path": "/ico/temperature.jpg",
+      "bytes": 1216
+    },
+    {
+      "path": "/ico2/01d.jpg",
+      "bytes": 3855
+    },
+    {
+      "path": "/ico2/01n.jpg",
+      "bytes": 2212
+    },
+    {
+      "path": "/ico2/02d.jpg",
+      "bytes": 4051
+    },
+    {
+      "path": "/ico2/02n.jpg",
+      "bytes": 3398
+    },
+    {
+      "path": "/ico2/03d.jpg",
+      "bytes": 3651
+    },
+    {
+      "path": "/ico2/04d.jpg",
+      "bytes": 3067
+    },
+    {
+      "path": "/ico2/09d.jpg",
+      "bytes": 4286
+    },
+    {
+      "path": "/ico2/10d.jpg",
+      "bytes": 4293
+    },
+    {
+      "path": "/ico2/11d.jpg",
+      "bytes": 3990
+    },
+    {
+      "path": "/ico2/13d.jpg",
+      "bytes": 4188
+    },
+    {
+      "path": "/ico2/50d.jpg",
+      "bytes": 3298
+    },
+    {
+      "path": "/index.html",
+      "bytes": 10794
+    },
+    {
+      "path": "/indexkey.html",
+      "bytes": 1822
+    },
+    {
+      "path": "/indexwifi.html",
+      "bytes": 3083
+    },
+    {
+      "path": "/javascript.js",
+      "bytes": 23595
+    },
+    {
+      "path": "/micross20.vlw",
+      "bytes": 57430
+    },
+    {
+      "path": "/NotoSans16.vlw",
+      "bytes": 44667
+    },
+    {
+      "path": "/NotoSansKR18.vlw",
+      "bytes": 138849
+    },
+    {
+      "path": "/photo-setting.html",
+      "bytes": 14996
+    },
+    {
+      "path": "/style.css",
+      "bytes": 5985
+    },
+    {
+      "path": "/Univers120.vlw",
+      "bytes": 46447
+    },
+    {
+      "path": "/Univers40.vlw",
+      "bytes": 6259
+    },
+    {
+      "path": "/Univers80.vlw",
+      "bytes": 22707
+    },
+    {
+      "path": "/weather/01d.jpg",
+      "bytes": 8277
+    },
+    {
+      "path": "/weather/01n.jpg",
+      "bytes": 16211
+    },
+    {
+      "path": "/weather/02d.jpg",
+      "bytes": 9072
+    },
+    {
+      "path": "/weather/02n.jpg",
+      "bytes": 10263
+    },
+    {
+      "path": "/weather/03d.jpg",
+      "bytes": 9374
+    },
+    {
+      "path": "/weather/04d.jpg",
+      "bytes": 7421
+    },
+    {
+      "path": "/weather/09d.jpg",
+      "bytes": 10794
+    },
+    {
+      "path": "/weather/10d.jpg",
+      "bytes": 9942
+    },
+    {
+      "path": "/weather/11d.jpg",
+      "bytes": 10183
+    },
+    {
+      "path": "/weather/13d.jpg",
+      "bytes": 10930
+    },
+    {
+      "path": "/weather/50d.jpg",
+      "bytes": 7688
+    }
+  ]
+}
