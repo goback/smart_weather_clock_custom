@@ -1,0 +1,2 @@
+# Preserve firmware bytes and use binary diffs/merges on every platform.
+*.bin binary

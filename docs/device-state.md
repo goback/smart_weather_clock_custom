@@ -15,6 +15,7 @@
 | 기반 소스 | SmartClock-OSS v1.3.2 |
 | 마지막 적용 파일 | `SDP-Minimal-Clean64.bin` |
 | 소스의 버전 문자열 | `1.3.2-minimal-clean64` |
+| 보관된 바이너리 | [SDP-Minimal-Clean64.bin](../firmware/1.3.2-minimal-clean64/SDP-Minimal-Clean64.bin), Git 태그 `v1.3.2-minimal-clean64` |
 | 마지막 관리 주소 | 로컬 네트워크에서 `http://192.168.0.57/` 사용. DHCP 배정에 따라 달라질 수 있음 |
 
 정확한 기판 모델·리비전은 분해해서 확인하지 않았습니다. 최초 제조사 펌웨어의 설치 버전도 확인하지 못했습니다. 빌드 대상과 실기 동작 확인을 기판 각인 확인으로 해석하지 않습니다.
