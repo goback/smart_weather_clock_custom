@@ -1,0 +1,2 @@
+# Preserve the imported source bytes, including the embedded web page's line endings.
+* -text

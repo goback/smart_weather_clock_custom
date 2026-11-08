@@ -17,8 +17,11 @@
     "origin": "User-uploaded original binary; identical to the historical final release by size and SHA-256.",
     "base_project": "https://github.com/michaeldale/smartclock-oss",
     "base_version": "1.3.2",
-    "custom_source_in_repository": false,
-    "historical_source_thread": "01a1b94e-b2fc-7b00-bf4f-aca7c09980a5"
+    "custom_source_in_repository": true,
+    "historical_source_thread": "01a1b94e-b2fc-7b00-bf4f-aca7c09980a5",
+    "source_path": "firmware/1.3.2-minimal-clean64/source",
+    "source_import_date": "2026-11-08",
+    "source_in_original_tag": false
   },
   "verification": {
     "matches_historical_size_and_sha256": true,
@@ -26,6 +29,8 @@
     "embedded_image_size_matches_file": true,
     "rebuilt_for_registration": false,
     "flashed_for_registration": false,
-    "hardware_retested_for_registration": false
+    "hardware_retested_for_registration": false,
+    "original_build_directory_binary_matches_archived_sha256": true,
+    "clean_rebuild_verified": false
   }
 }
